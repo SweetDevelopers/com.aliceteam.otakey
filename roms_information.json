@@ -1,4 +1,5 @@
-{"response" : [ 
+{"custum_link":"http://google.com",
+  "response" : [ 
 {"name":"rom1", "url":"http://path", "changelog":"gghhf", "nikname":"gghhf", "version":"gghhf"}, 
 {"name":"rom2", "url":"http://path", "changelog":"gghhf", "nikname":"gghhf", "version":"gghhf"}, 
 {"name":"rom3", "url":"http://path", "changelog":"gghhf", "nikname":"gghhf", "version":"gghhf"}, 
